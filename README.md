@@ -1,5 +1,5 @@
 # Digital-Image-Processing-EE-569-Spring-2017
-Homework-1
+# Homework-1
 
 Q1. Basic Image Manipulation
 
@@ -41,7 +41,7 @@ b. Non-Local Means (NLM) filter
 
 c. Block Matching and 3-D (BM3D) transform filter
 
-Homework-2
+# Homework-2
 
 Q1. Geometric Image Modification
 
@@ -67,7 +67,7 @@ c. Skeletonization
 
 d. Counting game
 
-Homework-3
+# Homework-3
 
 Q1. Texture Analysis and Segmentation
 
@@ -85,7 +85,7 @@ b. Contour Detection with Structured Edge
 
 c. Performance Evaluation
 
-Homework-4 
+# Homework-4 
 
 Q1. CNN Training and Its Application to the CIFAR-10 Dataset
 
